@@ -1,0 +1,1 @@
+select order_id,sum(amount) from 
